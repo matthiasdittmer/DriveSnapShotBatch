@@ -4,7 +4,7 @@ Windows batch script to easily backup complete drives with Drive SnapShot [1] at
 # Usage
 * Place your Drive SnapShot executable in the same folder (name it snapshot64_reg.exe)
 * Start the script, Configuration
-	* Backup placed in subfolder [machine]\[machine][drive][date][time]\[backup files]
+	* Backup placed in subfolder [machine]\\[machine][drive][date][time]\[backup files]
 	* Creates chunks of 10 GB 
 	* Backup is encrypted from Drive SnapShot (using AES)
 	
