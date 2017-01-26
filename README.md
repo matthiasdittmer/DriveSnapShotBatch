@@ -9,4 +9,4 @@ Windows batch script to easily backup complete drives with Drive SnapShot [1] at
 	* Backup is encrypted from Drive SnapShot (using AES)
 	
 [1] http://www.drivesnapshot.de/en/index.htm
-[2] https://de.wikipedia.org/wiki/Volume_Shadow_Copy_Service
+[2] https://en.wikipedia.org/wiki/Volume_Shadow_Copy_Service
