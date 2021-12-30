@@ -1,7 +1,7 @@
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/matthiasdittmer/DriveSnapShotBatch)
-![GitHub](https://img.shields.io/github/license/matthiasdittmer/DriveSnapShotBatch)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/matthiasdittmer/SuperbBackup)
+![GitHub](https://img.shields.io/github/license/matthiasdittmer/SuperbBackup)
 
-# DriveSnapShotBatch
+# SuperbBackup
 Windows batch / Python script to easily backup complete drives with Drive SnapShot [1] at runtime with VSS [2].
 
 ## Batch (old version in /batch/)
